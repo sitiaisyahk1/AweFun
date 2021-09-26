@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        android:checked="true"
+        app:color="@color/unselected_icon"/>
+
+    <item
+        android:id="@+id/studentFragment"
+        android:icon="@drawable/ic_rank"
+        android:title="@string/students"
+        app:color="@color/unselected_icon"/>
+
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/ic_account"
+        android:title="@string/accounts"
+        app:color="@color/unselected_icon"/>
+
+</menu>

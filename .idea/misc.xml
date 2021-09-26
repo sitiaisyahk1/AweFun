@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/drawable/home.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/drawable/ic_a_day_at_the_park.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/drawable/ic_account.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/drawable/ic_rank.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/drawable/tes.xml" value="0.2911458333333333" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.14375" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/fragment_account.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/fragment_home.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/fragment_nav_controller.xml" value="0.1" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/fragment_students.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/onboarding_activity.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/onboarding_page_item.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/layout/onboarding_view.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/sitia/AndroidStudioProjects/AweFun-master/app/src/main/res/menu/bottom_menu.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (5)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
